@@ -1,5 +1,7 @@
 ## AKETRONIKS
 
+![image](https://akecloud.com/akelogo.png)
+
 Application to become an approved third party manufacturer as per HIP19.
 ## Summary
 Aketroniks has been providing services in embedded systems since 2013. Using this experience, we develop IoT devices with wifi,
