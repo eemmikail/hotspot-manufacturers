@@ -18,13 +18,19 @@ our experience.
 
 ## Product Information (required)
 We are planning to use 64-bit A64 allwinner processor based board on product. The board is our custom design and amenable to changes. 
-Besides this board has wifi, BT and ethernet capacity.
+Besides this board has wifi, BT and ethernet capacity. We are using Linux OS for development and we are developing our custom kernel.
+We have our custom server for updating and controlling. We able to provide CMS-1 (customer manager system) and CMS-2 (content manager system) so the customers can change their product settings online.
+
+Hotspot: Bütün network ayarlarını yapabilen hotspot türü.
+Lightspot: Sadece veri aktarımı yapabilen hotspot türü.
+outdoor olabilmesi için suya, sıcağa dayanıklılık vs istiyorlar.
 
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
 * Is it for indoor or outdoor?
 * Provide a brief description of what you're making.
 
 ## What is your approximate price point? (required)
+piyasa 500 dolar ile 1000 dolar arasında değişiyor.
 
 ## Please provide detailed hardware designs, including relevant parts (required)
 Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
