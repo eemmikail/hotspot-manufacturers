@@ -15,6 +15,9 @@ We want to concentrate our productions on the blockchain field. We think that th
 our experience.
 
 ## Product Information (required)
+We are planning to use 64-bit A64 allwinner processor based board on product. The board is our custom design and amenable to changes. 
+Besides this board has wifi, BT and ethernet capacity.
+
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
 * Is it for indoor or outdoor?
 * Provide a brief description of what you're making.
