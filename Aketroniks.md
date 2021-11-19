@@ -9,7 +9,7 @@ Aketroniks has been providing services in embedded systems since 2013. Using thi
 bluetooth, ethernet capacity. We want to enter the blockchain field by using this capacity. The Helium project draws our attention
 both with its field of interest and with the technology it has developed.
 
-## Company Information (required)
+## Company Information
 In 2013, AKETRONİKS LTD was established as a company which makes research&development, design and production of electronic systems, 
 mainly used in industrial kitchen equipments. AKETRONİKS LTD, which has cutting-edge and powerful machine park, has world-class factory 
 for the production of embedded electronic systems. Besides, AKETRONİKS LTD has continued its activities as R&D Center, 
@@ -17,7 +17,7 @@ which is approved by Ministry of Industry and Technology, since March 2018. To d
 We want to concentrate our productions on the blockchain field. We think that the Helium project is the right project where we can use 
 our experience.
 
-## Product Information (required)
+## Product Information
 We are planning to use 64-bit A64 allwinner processor based board on product. The board is our custom design and amenable to changes. 
 Besides this board has wifi, BT and ethernet capacity. We are using Linux OS for development and we are developing our custom kernel.
 We have our custom server for updating and controlling. We able to provide CMS-1 (customer manager system) and CMS-2 (content manager system) so the customers can change their product settings online.
@@ -30,26 +30,29 @@ outdoor olabilmesi için suya, sıcağa dayanıklılık vs istiyorlar.
 * Is it for indoor or outdoor?
 * Provide a brief description of what you're making.
 
-## What is your approximate price point? (required)
-piyasa 500 dolar ile 1000 dolar arasında değişiyor.
+## price point
+ indoor, Ethernet/Wifi — $450
+ Outdoor, Ethernet/Wifi — $750
 
 ## Please provide detailed hardware designs, including relevant parts (required)
 Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
 Your plan for software setup and configuration for the devices. 
 This would includes remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
 
-## What is your expected production and delivery timeline? (required)
+## What is your expected production and delivery timeline?
+mid-2022
 
-## Previous shipments (required)
+## Previous shipments
 
 ## Startups welcome! 
 * Have you shipped anything in the past? Yes or No
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
 * Which countries do you plan to ship to? 
 
-## Customer Support (required)
-* How will your customers be able to contact you for support for your products? 
-* For how long? How are you planning to handle repairs and replacements? 
+## Customer Support
+
+Aketroniks has a support team based in Turkey.
+Aketroniks will provide worldwide support and replacements.
 
 
 ## Hardware Security Element (required)
