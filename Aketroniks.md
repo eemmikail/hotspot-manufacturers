@@ -1,6 +1,7 @@
 ## AKETRONIKS
 
-![image](https://akecloud.com/akelogo.png)
+<!-- ![image](https://akecloud.com/akelogo.png) -->
+<img src="https://akecloud.com/akelogo.png" width="300">
 
 Application to become an approved third party manufacturer as per HIP19.
 ## Summary
