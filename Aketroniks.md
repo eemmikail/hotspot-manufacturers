@@ -43,11 +43,7 @@ This would includes remote updates and the ability for hosts to change wifi sett
 mid-2022
 
 ## Previous shipments
-
-## Startups welcome! 
-* Have you shipped anything in the past? Yes or No
-* Which countries have you previously shipped regulatory FCC or CE approved products? 
-* Which countries do you plan to ship to? 
+We produced 350k products and provided the transportation of these products. We also have our own e-commerce website. You can access it from this site: https://otomasyoncum.com.tr/ .
 
 ## Customer Support
 
@@ -58,8 +54,10 @@ Aketroniks will provide worldwide support and replacements.
 ## Hardware Security Element (required)
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured, potentially including:
 
-* Encrypted/locked-down firmware. Yes or no? 
+* Encrypted/locked-down firmware. Yes or no? \
+Yes, we will use linux encryption techniques. For update packages and firmware.
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
+Yes, we are going to use ECC608 crypto chip.
 * Encrypted buses, potting and other anti-tampering measures. Yes or No?
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 
