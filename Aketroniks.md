@@ -3,6 +3,7 @@
 <!-- ![image](https://akecloud.com/akelogo.png) -->
 <img src="https://akecloud.com/akelogo.png" width="300">
 
+
 Application to become an approved third party manufacturer as per HIP19.
 ## Summary
 Aketroniks has been providing services in embedded systems since 2013. Using this experience, we develop IoT devices with wifi,
@@ -31,8 +32,8 @@ outdoor olabilmesi için suya, sıcağa dayanıklılık vs istiyorlar.
 * Provide a brief description of what you're making.
 
 ## price point
- indoor, Ethernet/Wifi — $450
- Outdoor, Ethernet/Wifi — $750
+  indoor, Ethernet/Wifi — $450\
+  Outdoor, Ethernet/Wifi — $750  
 
 ## Please provide detailed hardware designs, including relevant parts (required)
 Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
@@ -64,6 +65,7 @@ Aketroniks will provide worldwide support and replacements.
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 
 ## Hardware Information (required)
+<img src="https://akecloud.com/Ake_lora_rak.jpg" width="300">
 * Please let us know:
 
 * Which security (swarm) element are you using? 
