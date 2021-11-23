@@ -92,11 +92,11 @@ Contact details for this will be provided after your application is submitted on
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
 ## Other information (required) if you do not provide contact information we cannot review your proposal.
-* Contact info (* required)
-* Twitter profile -
-* Facebook profile -
-* Other social profiles -
-* Website -
+* Contact info -  info@aketroniks.com.tr 
+* Twitter profile - https://twitter.com/aketroniks
+* Facebook profile - https://www.facebook.com/aketroniks/
+* Other social profiles - https://tr.linkedin.com/company/aketroniks-electronic-systems
+* Website - https://aketroniks.com.tr/en
 
 ## Payment methods available 
 
