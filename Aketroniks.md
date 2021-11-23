@@ -23,13 +23,12 @@ We are planning to use 64-bit A64 allwinner processor based board on product. Th
 Besides this board has wifi, BT and ethernet capacity. We are using Linux OS for development and we are developing our custom kernel.
 We have our custom server for updating and controlling. We able to provide CMS-1 (customer manager system) and CMS-2 (content manager system) so the customers can change their product settings online.
 
-Hotspot: Bütün network ayarlarını yapabilen hotspot türü.
-Lightspot: Sadece veri aktarımı yapabilen hotspot türü.
-outdoor olabilmesi için suya, sıcağa dayanıklılık vs istiyorlar.
-
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
+We are planning to produce Full Hotspot.
 * Is it for indoor or outdoor?
+Both, we are going to offer two choices one for outdoor one for indoor.
 * Provide a brief description of what you're making.
+
 
 ## price point
   indoor, Ethernet/Wifi — $450\
