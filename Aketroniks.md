@@ -87,7 +87,7 @@ https://akecloud.com/assets/images/video1.mp4 \
 We built waiter call system. The system has registration, security and control features. \
 https://www.youtube.com/watch?v=a8cGRKDK4xc&t=33s
 
-* How many gateways did you make? 
+* How many gateways did you make? \
 We produced and delivered 5000 medical products including gateways.
 
 ## Budget & Capital (required)
