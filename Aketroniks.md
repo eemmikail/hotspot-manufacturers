@@ -82,14 +82,13 @@ We can procure 50k modules.
 
 ## Manufacturing Information (required)
 * Have you built and delivered radio hardware products before? \
-We built solar panel control system before. The system has registration, security and control features.
-
+We built solar panel control system before. The system has registration, security and control features. \
+https://akecloud.com/assets/images/video1.mp4 \
 We built waiter call system. The system has registration, security and control features. \
 https://www.youtube.com/watch?v=a8cGRKDK4xc&t=33s
 
 * How many gateways did you make? 
-* 5000 bin gateway içeren medikal ürün gönderdik.
-* If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
+We produced and delivered 5000 medical products including gateways.
 
 ## Budget & Capital (required)
 * How many of these are you hoping to make and sell? 
