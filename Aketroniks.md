@@ -39,8 +39,8 @@ We have similiar iot products so we have experience about registration, customer
 project and desired product professionally so we are open to contact for talk about products and requests. We are still working on the project. However, we do not see any harm in presenting some of the studies.
 
 <img src="https://akecloud.com/assets/images/modem1.jpg" width="300">
-<img src="https://akecloud.com/assets/images/img1.png" width="300">
-<img src="https://akecloud.com/assets/images/img2.png" width="300">
+<img src="https://akecloud.com/assets/images/img1.jpg" width="300">
+<img src="https://akecloud.com/assets/images/img2.jpg" width="300">
 
 
 ## What is your expected production and delivery timeline?
