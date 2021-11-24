@@ -73,7 +73,7 @@ Yes.
 * Please let us know:
 
 * Which security (swarm) element are you using? \
-We are going to use ECC608 crypto chip. For security we open any offer and suggestions. Any changes can be made at any time. We develop all our products in every field. These areas are electronics, web software, phone applications or embedded systems. In other words, we are open to developing together by communicating.
+We are going to use ECC608 crypto chip. For security we open any offer and suggestions. Any changes can be made at any time. We develop all our products in every field. These areas are electronics, web software, android/ios applications or embedded systems. In other words, we are open to developing together by communicating.
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) 
 We recommend you don't use the SX1301 in new designs \
 We are planing to use SX1302  
