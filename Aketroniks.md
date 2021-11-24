@@ -38,10 +38,13 @@ We are going to produce 64-bit full hotspot. The board will have 1 GB ram and li
 We have similiar iot products so we have experience about registration, customer service, security and weather resistant products. We want to work with your 
 project and desired product professionally so we are open to contact for talk about products and requests. We are still working on the project. However, we do not see any harm in presenting some of the studies.
 
-<img src="https://akecloud.com/assets/images/modem1.jpg" width="300">
-<img src="https://akecloud.com/assets/images/img1.jpg" width="300">
-<img src="https://akecloud.com/assets/images/img2.jpg" width="300">
-
+<table>
+  <tr>
+    <td valign="top"><img src="https://akecloud.com/assets/images/modem1.jpg"/></td>
+    <td valign="top"><img src="https://akecloud.com/assets/images/img1.jpg"/></td>
+    <td valign="top"><img src="https://akecloud.com/assets/images/img2.jpg"/></td>
+  </tr>
+</table>
 
 ## What is your expected production and delivery timeline?
 Q4-2022
@@ -84,8 +87,17 @@ We can procure 50k modules.
 
 ## Manufacturing Information
 * Have you built and delivered radio hardware products before? \
-We built solar panel control system before. The system has registration, security and control features. \
-https://akecloud.com/assets/images/video1.mp4 \
+We built solar panel control system before. The system has registration, security and control features. 
+<table>
+  <tr>
+    <td valign="top"><img src="https://akecloud.com/assets/images/istasyon_yakin.png"/></td>
+    <td valign="top"><img src="https://akecloud.com/assets/images/istasyonlar.png"/></td>
+    <td valign="top"><img src="https://akecloud.com/assets/images/kurulum.png"/></td>
+  </tr>
+</table> 
+
+https://akecloud.com/assets/images/video1.mp4
+
 We built waiter call system. The system has registration, security and control features. \
 https://www.youtube.com/watch?v=a8cGRKDK4xc&t=33s
 
