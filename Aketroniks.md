@@ -34,7 +34,7 @@ We are going to produce 64-bit full hotspot. The board will have 1 GB ram and li
   indoor, Ethernet/Wifi — $450\
   Outdoor, Ethernet/Wifi — $750  
 
-## Please provide detailed hardware designs, including relevant parts (required)
+## Hardware designs
 We have similiar iot products so we have experience about registration, customer service, security and weather resistant products. We want to work with your 
 project and desired product professionally so we are open to contact for talk about products and requests. We are still working on the project. However, we do not see any harm in presenting some of the studies.
 
@@ -55,7 +55,7 @@ Aketroniks has a support team based in Turkey.
 Aketroniks will provide worldwide support and replacements.
 
 
-## Hardware Security Element (required)
+## Hardware Security Element
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured, potentially including:
 
 * Encrypted/locked-down firmware. Yes or no? \
@@ -63,10 +63,12 @@ Yes, we will use linux encryption techniques. For update packages and firmware.
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No? \
 Yes, we are going to use ECC608 crypto chip.
 * Encrypted buses, potting and other anti-tampering measures. Yes or No?
+We are going to use Linux encryption techniques. We will close the accesses on Linux and make an admin restriction. \
+We will use the warranty tag for the material.
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No? \
 Yes.
 
-## Hardware Information (required)
+## Hardware Information
 <img src="https://akecloud.com/Ake_lora_rak.jpg" width="300">
 * Please let us know:
 
@@ -80,7 +82,7 @@ We have many suppliers in China and we can purchase from European and Asian coun
 * How many radio modules/ concentrators can you procure? \
 We can procure 50k modules.
 
-## Manufacturing Information (required)
+## Manufacturing Information
 * Have you built and delivered radio hardware products before? \
 We built solar panel control system before. The system has registration, security and control features. \
 https://akecloud.com/assets/images/video1.mp4 \
@@ -90,7 +92,7 @@ https://www.youtube.com/watch?v=a8cGRKDK4xc&t=33s
 * How many gateways did you make? \
 We produced and delivered 5000 medical products including gateways.
 
-## Budget & Capital (required)
+## Budget & Capital
 * How many of these are you hoping to make and sell? \
 50k products.
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? \
@@ -99,10 +101,10 @@ Access to material is difficult due to the processor crisis in the world. As lon
 We are a member of the ATİKER group of companies, which has a strong position in our country, so we do not think that there will be any financial problems. \
 https://www.atikerholding.com.tr/
 
-## Risks & Challenges (required)
-Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
+## Risks & Challenges
+Chip crisis is most powerful risk and challenge for us but we are going to solve this problem with alternative suppliers and producers.
 
-## Other information (required) if you do not provide contact information we cannot review your proposal.
+## Other information
 * Contact info -  info@aketroniks.com.tr 
 * Twitter profile - https://twitter.com/aketroniks
 * Facebook profile - https://www.facebook.com/aketroniks/
@@ -110,5 +112,6 @@ Please tell us about some of the challenges that would prevent these products fr
 * Website - https://aketroniks.com.tr/en
 
 ## Payment methods available 
-
-## Which countries do you plan to ship to and get regulatory certifications for? (required)
+https://otomasyoncum.com.tr/ - PayTR
+## Which countries do you plan to ship to and get regulatory certifications for? \
+We are planning to make sales mostly in Europe and Turkey. And we are making preparations to obtain the necessary certificates.
