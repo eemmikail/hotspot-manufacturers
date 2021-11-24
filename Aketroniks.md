@@ -35,9 +35,10 @@ We are going to produce 64-bit full hotspot. The board will have 1 GB ram and li
   Outdoor, Ethernet/Wifi — $750  
 
 ## Please provide detailed hardware designs, including relevant parts (required)
-Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
-Your plan for software setup and configuration for the devices. 
-This would includes remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
+We have similiar iot products so we have experience about registration, customer service, security and weather resistant products. We want to work with your 
+project and desired product professionally so we are open to contact for talk about products and requests. We are still working on the project. However, we do not see any harm in presenting some of the studies. \
+
+<img src="https://akecloud.com/assets/images/modem1.jpg" width="300">
 
 ## What is your expected production and delivery timeline?
 mid-2022
@@ -56,7 +57,7 @@ Aketroniks will provide worldwide support and replacements.
 
 * Encrypted/locked-down firmware. Yes or no? \
 Yes, we will use linux encryption techniques. For update packages and firmware.
-* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
+* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No? \
 Yes, we are going to use ECC608 crypto chip.
 * Encrypted buses, potting and other anti-tampering measures. Yes or No?
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
@@ -65,10 +66,13 @@ Yes, we are going to use ECC608 crypto chip.
 <img src="https://akecloud.com/Ake_lora_rak.jpg" width="300">
 * Please let us know:
 
-* Which security (swarm) element are you using? 
+* Which security (swarm) element are you using? \
+We are going to use ECC608 crypto chip. For security we open any offer and suggestions. Any changes can be made at any time. We develop all our products in every field. These areas are electronics, web software, phone applications or embedded systems. In other words, we are open to developing together by communicating.
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) 
-We recommend you don't use the SX1301 in new designs 
-* Where are you sourcing your components from? 
+We recommend you don't use the SX1301 in new designs \
+We are planing to use SX1302  
+* Where are you sourcing your components from? \
+We have many suppliers in China and we can purchase from European and Asian countries. We have not had any problems with supply so far.
 * How many radio modules/ concentrators can you procure? 
 
 ## Manufacturing Information (required)
