@@ -99,7 +99,9 @@ We built solar panel control system before. The system has registration, securit
 https://akecloud.com/assets/images/video1.mp4
 
 We built waiter call system. The system has registration, security and control features. \
-https://www.youtube.com/watch?v=a8cGRKDK4xc&t=33s
+https://www.youtube.com/watch?v=a8cGRKDK4xc&t=33s \ 
+
+<img src="https://akecloud.com/assets/images/cevircagir.png" width="300">
 
 * How many gateways did you make? \
 We produced and delivered 5000 medical products including gateways.
