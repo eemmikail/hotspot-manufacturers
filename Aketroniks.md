@@ -91,12 +91,13 @@ https://www.youtube.com/watch?v=a8cGRKDK4xc&t=33s
 We produced and delivered 5000 medical products including gateways.
 
 ## Budget & Capital (required)
-* How many of these are you hoping to make and sell? 
-* 50 bin.
-* How much money will be required up-front? How much money do you have on-hand, and how much do you have access to?
-* Dünyadaki işlemci krizinden dolayı malzemeye erişim zor olmaktadır. Biz malzemeye eriştiğimiz sürece finansal bir engelimiz yoktur. 
+* How many of these are you hoping to make and sell? \
+50k products.
+* How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? \
+Access to material is difficult due to the processor crisis in the world. As long as we have access to the material, we have no financial barriers.
 * What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash. 
-* Atiker grupta olduğumuz ve 2. 3. planlara ihtiyaç olmadığını söyle.
+We are a member of the ATİKER group of companies, which has a strong position in our country, so we do not think that there will be any financial problems. \
+https://www.atikerholding.com.tr/
 
 ## Risks & Challenges (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
