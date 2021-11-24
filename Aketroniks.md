@@ -39,6 +39,9 @@ We have similiar iot products so we have experience about registration, customer
 project and desired product professionally so we are open to contact for talk about products and requests. We are still working on the project. However, we do not see any harm in presenting some of the studies.
 
 <img src="https://akecloud.com/assets/images/modem1.jpg" width="300">
+<img src="https://akecloud.com/assets/images/img1.png" width="300">
+<img src="https://akecloud.com/assets/images/img2.png" width="300">
+
 
 ## What is your expected production and delivery timeline?
 Q4-2022
@@ -60,7 +63,8 @@ Yes, we will use linux encryption techniques. For update packages and firmware.
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No? \
 Yes, we are going to use ECC608 crypto chip.
 * Encrypted buses, potting and other anti-tampering measures. Yes or No?
-* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
+* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No? \
+Yes.
 
 ## Hardware Information (required)
 <img src="https://akecloud.com/Ake_lora_rak.jpg" width="300">
@@ -73,22 +77,24 @@ We recommend you don't use the SX1301 in new designs \
 We are planing to use SX1302  
 * Where are you sourcing your components from? \
 We have many suppliers in China and we can purchase from European and Asian countries. We have not had any problems with supply so far.
-* How many radio modules/ concentrators can you procure? 
+* How many radio modules/ concentrators can you procure? \
+We can procure 50k modules.
 
 ## Manufacturing Information (required)
-* Have you built and delivered radio hardware products before?
-* Have you built gateways before? 
+* Have you built and delivered radio hardware products before? \
+We built solar panel control systems before. The system has registration, security and control features.
+Güneş paneli ürettik. Video ve resim gelecek. Çevir cağır gelecek. Güneş paneli websitesi.
 * How many gateways did you make? 
+* 5000 bin gateway içeren medikal ürün gönderdik.
 * If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
-
-## Proof of Identity
-Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from Helium Inc or DeWi board members. This will be attested and publicly confirmed by those representatives, e.g. as GitHub comments.
-Contact details for this will be provided after your application is submitted on GitHub. 
 
 ## Budget & Capital (required)
 * How many of these are you hoping to make and sell? 
-* How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
+* 50 bin.
+* How much money will be required up-front? How much money do you have on-hand, and how much do you have access to?
+* Dünyadaki işlemci krizinden dolayı malzemeye erişim zor olmaktadır. Biz malzemeye eriştiğimiz sürece finansal bir engelimiz yoktur. 
 * What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash. 
+* Atiker grupta olduğumuz ve 2. 3. planlara ihtiyaç olmadığını söyle.
 
 ## Risks & Challenges (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
