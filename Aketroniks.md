@@ -36,7 +36,7 @@ We are going to produce 64-bit full hotspot. The board will have 1 GB ram and li
 
 ## Please provide detailed hardware designs, including relevant parts (required)
 We have similiar iot products so we have experience about registration, customer service, security and weather resistant products. We want to work with your 
-project and desired product professionally so we are open to contact for talk about products and requests. We are still working on the project. However, we do not see any harm in presenting some of the studies. \
+project and desired product professionally so we are open to contact for talk about products and requests. We are still working on the project. However, we do not see any harm in presenting some of the studies.
 
 <img src="https://akecloud.com/assets/images/modem1.jpg" width="300">
 
