@@ -41,7 +41,7 @@ project and desired product professionally so we are open to contact for talk ab
 <img src="https://akecloud.com/assets/images/modem1.jpg" width="300">
 
 ## What is your expected production and delivery timeline?
-mid-2022
+Q4-2022
 
 ## Previous shipments
 We produced 350k products and provided the transportation of these products. We also have our own e-commerce website. You can access it from this site: https://otomasyoncum.com.tr/ .
