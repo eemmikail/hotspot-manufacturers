@@ -62,7 +62,7 @@ Aketroniks will provide worldwide support and replacements.
 Yes, we will use linux encryption techniques. For update packages and firmware.
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No? \
 Yes, we are going to use ECC608 crypto chip.
-* Encrypted buses, potting and other anti-tampering measures. Yes or No?
+* Encrypted buses, potting and other anti-tampering measures. Yes or No? \
 We are going to use Linux encryption techniques. We will close the accesses on Linux and make an admin restriction. \
 We will use the warranty tag for the material.
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No? \
