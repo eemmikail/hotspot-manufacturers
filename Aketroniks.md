@@ -42,8 +42,6 @@ project and desired product professionally so we are open to contact for talk ab
     <td valign="top"><img src="https://akecloud.com/assets/images/Montaj v14.png"/></td>
     <td valign="top"><img src="https://akecloud.com/assets/images/Montaj v15.png"/></td>
     <td valign="top"><img src="https://akecloud.com/assets/images/Montaj v16.png"/></td>
-    <td valign="top"><img src="https://akecloud.com/assets/images/Montaj v17.png"/></td>
-    <td valign="top"><img src="https://akecloud.com/assets/images/Montaj v18.png"/></td>
   </tr>
 </table>
 
