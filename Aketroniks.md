@@ -2,7 +2,7 @@
 
 <!-- ![image](https://akecloud.com/akelogo.png) -->
 <img src="https://akecloud.com/akelogo.png" width="300">
-
+<img src="https://akecloud.com/assets/images/helium_logo.png" width="300">
 
 Application to become an approved third party manufacturer as per HIP19.
 ## Summary
@@ -122,6 +122,7 @@ Chip crisis is most powerful risk and challenge for us but we are going to solve
 * Facebook profile - https://www.facebook.com/aketroniks/
 * Other social profiles - https://tr.linkedin.com/company/aketroniks-electronic-systems
 * Website - https://aketroniks.com.tr/en
+* Hotspot website - http://www.helloheliumminer.com/index.html
 
 ## Payment methods available 
 https://otomasyoncum.com.tr/ - PayTR
